@@ -36,3 +36,123 @@
     transform: rotate(360deg);
   }
 }
+
+.starzly-title {
+  background-image: linear-gradient(to right, #f81c78 4%, #ffb258 95%);
+  font-family: Futura;
+  font-size: 48px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.starzly-font-futura-20-nocenter {
+  font-family: Futura;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #000;
+}
+
+.starzly-font-futura-20-center {
+  font-family: Futura;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+
+.starzly-font-futura-16-nocenter {
+  font-family: Futura;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.6;
+  letter-spacing: normal;
+  color: #000;
+}
+
+.starzly-font-futura-12-nocenter {
+  font-family: Futura;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: #000;
+}
+
+.starzly-font-18-Helve-center {
+  font-family: HelveticaNeue;
+  font-weight: bold;
+  font-size: 18px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+
+.starzly-font-15-Helve-center {
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+
+.starzly-font-15-Helve-nocenter {
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000;
+}
+
+
+.starzly-button-size {
+  width: 180px;
+  height: 45px;
+  object-fit: contain;
+}
+
+.starzly-rectangle {
+  border-radius: 28px;
+  background-color: #ff45;
+}
+
+.starzly-video-rectangle {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 150px;
+  height: 250px;
+  border-radius: 19px;
+  background-color: #d8d8d8;
+  display: inline-block;
+}
+
+.starzly-rec{
+  white-space: nowrap;
+  overflow-x: clip;
+}
